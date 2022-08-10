@@ -18,3 +18,7 @@ There are 3 main ways of combining DataFrames together: Merging, Joining and Con
 There are lots of operations with pandas that will be really useful to you, but don't fall into any distinct category, such as unique values, selecting data, applying functions, finding null values, creating pivot tables, etc.
 
 ## Two example solutions are attached to this repository. Below are screenshots of some solutions:
+
+![Lesson3_Salaries_Example.png](Lesson3_Salaries_Example.png)
+
+![Lesson3_Ecommerce_Example.png](Lesson3_Ecommerce_Example.png)
